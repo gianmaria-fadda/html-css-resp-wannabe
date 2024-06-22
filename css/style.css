@@ -162,11 +162,14 @@ img {
         margin-bottom: 100px;
     }
 
-    body {
-        background-color: black;
+    .why-us {
+        background-color: #222222;
+        margin: 0;
+        padding-top: 50px;
     }
 
-    body header{
-        background-color: red;
+    .steps {
+        margin-bottom: 0;
     }
+
  }
